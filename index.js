@@ -118,7 +118,8 @@ function displayHeader() {
   const headerLines = [
     "╔╦╗┌─┐┌┐┌┌─┐┌─┐  ╔╗ ┌─┐┌┬┐",
     " ║ ├┤ │││├┤ │ │  ╠╩╗│ │ │ ",
-    " ╩ └─┘┘└┘└─┘└─┘  ╚═╝└─┘ ┴ "
+    " ╩ └─┘┘└┘└─┘└─┘  ╚═╝└─┘ ┴ ",
+       "Recode By SurrealFlux",
   ];
 
   console.clear();
