@@ -1,5 +1,5 @@
 # Teneo-BOT
-Toneo BOT Extension
+![visitor](https://count.getloli.com/@teneo?name=teneo&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 ## Fitur
 ```bash
