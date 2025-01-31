@@ -404,7 +404,7 @@ async function getUserId(index) {
         'Authorization': `Bearer ${accessTokens[index]}`,
         'Content-Type': 'application/json',
         'authority': 'auth.teneo.pro',
-        'x-api-key': 'OwAG3kib1ivOJG4Y0OCZ8lJETa6ypvsDtGmdhcjA'
+        'x-api-key': 'OwAG3kib1ivOJG4Y0OCZ8lJETa6ypvsDtGmdhcjB'
       }
     });
 
